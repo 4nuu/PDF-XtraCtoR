@@ -24,5 +24,6 @@ Install Python 🐍:
 
 then install pymupdf (PyMuPDF):
 <code> pip install pymupdf </code>
+``` Hello `
 
 
