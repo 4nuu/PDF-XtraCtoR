@@ -22,10 +22,17 @@
 Install Python 🐍:  
 👉 [From Here!](https://www.python.org/downloads/)
 
-then install pymupdf (PyMuPDF):
-<code> pip install pymupdf </code>
+👉 Then install pymupdf (PyMuPDF):
 ``` sh
-Hello askdjlanda
+pip install pymupdf 
  ```
+👉 Then upload/keep the file in the directory:
+** Use sample.pdf as filename**
+``` sh
+
+ ```
+``` sh
+
+```
 
 
