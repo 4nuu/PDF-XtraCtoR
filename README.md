@@ -1,8 +1,5 @@
 # 🚀 PDF-XtraCtoR - Extract Images from PDF Effortlessly! 🖼️📄
-
-![PDF-XtraCtoR Banner](https://ibb.co/gbH0Dkw3)
-<a href="https://ibb.co/gbH0Dkw3"><img src="https://i.ibb.co/gbH0Dkw3/DALL-E-2025-03-07-14-50-57-A-modern-and-vibrant-banner-for-PDF-Xtra-Cto-R-The-design-should-feature.webp" alt="DALL-E-2025-03-07-14-50-57-A-modern-and-vibrant-banner-for-PDF-Xtra-Cto-R-The-design-should-feature" border="0"></a>
-
+https://drive.google.com/file/d/1g_rmELe3BpM5KlipP7GRtF7gu7hZldII/view
 ## 🎯 About PDF-XtraCtoR
 PDF-XtraCtoR is a **simple yet powerful** tool that allows you to extract **high-quality images** from any PDF file effortlessly. Whether you need to extract illustrations, scanned photos, or embedded graphics, this tool has got you covered! 🔥🚀
 
