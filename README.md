@@ -19,5 +19,10 @@
 
 ### 🔧 Install Dependencies
 
-Make sure you have Python installed, then install pymupdf (PyMuPDF):
+Install Python 🐍:  
+👉 [From Here!](https://www.python.org/downloads/)
+
+then install pymupdf (PyMuPDF):
+<code> pip install pymupdf </code>
+
 
