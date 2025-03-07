@@ -8,11 +8,11 @@
 
 ## 🛠️ Features
 
-✅ Extracts all images from a PDF 📸
-✅ Retains original quality & format 🎨
-✅ Lightweight & super fast ⚡
-✅ Works with multi-page PDFs 📚
-✅ Easy to use – Just run & extract! 💡
+✅ Extracts all images from a PDF 📸 <br>
+✅ Retains original quality & format 🎨<br>
+✅ Lightweight & super fast ⚡<br>
+✅ Works with multi-page PDFs 📚<br>
+✅ Easy to use – Just run & extract! 💡<br>
  
  
  ## 📌🤏 Installation & Usage
