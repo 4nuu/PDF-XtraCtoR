@@ -35,7 +35,8 @@ pip install pymupdf
 
 ### 🚀 Run the Extractor
 ```bash
-python pdf_extractor.py sample.pdf extracted_images/
+python XtraCtoR.py
+py XtraCtoR.py
 ```
 
 ### 🎯 Steps to Use
@@ -45,9 +46,7 @@ python pdf_extractor.py sample.pdf extracted_images/
 
 ## 🎨 Demo
 📌 **Input:** A PDF with multiple images  
-📌 **Output:** Extracted images saved in `extracted_images/` folder  
-
-![Extraction Demo](https://via.placeholder.com/600x300?text=Extraction+Demo+Gif)
+📌 **Output:** Extracted images saved in `extracted_images` folder
 
 ## 🌟 Why Use PDF-XtraCtoR?
 ✔️ **Simple & Effective** – No extra fluff, just what you need!  
